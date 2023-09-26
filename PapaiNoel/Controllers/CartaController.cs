@@ -40,7 +40,7 @@ namespace PapaiNoel.Controllers
         }
         #endregion
 
-        #region Métodos Http
+        #region Métodos
 
         [HttpGet]
         public IActionResult Get()
